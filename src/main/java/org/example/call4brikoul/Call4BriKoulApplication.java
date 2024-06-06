@@ -9,5 +9,4 @@ public class Call4BriKoulApplication {
     public static void main(String[] args) {
         SpringApplication.run(Call4BriKoulApplication.class, args);
     }
-
 }
